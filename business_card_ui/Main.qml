@@ -81,7 +81,7 @@ ApplicationWindow {
 
             Image {
                 id: userProfilePhoto
-                source: "qrc:/user.png"
+                source: "qrc:/profile-user.png"
                 anchors.right: parent.right
                 anchors.top: parent.top
                 anchors.margins: 25
